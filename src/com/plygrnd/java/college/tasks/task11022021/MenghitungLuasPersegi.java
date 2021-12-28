@@ -1,4 +1,4 @@
-package com.plygrnd.java.tasks.task11022021;
+package com.plygrnd.java.college.tasks.task11022021;
 
 import java.util.Scanner;
 

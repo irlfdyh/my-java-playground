@@ -1,4 +1,4 @@
-package com.plygrnd.java.tasks.task11022021;
+package com.plygrnd.java.college.tasks.task11022021;
 
 /**
  * Menampilkan deret angka 1 2 3 4 5 6 7 8 9 10 55
