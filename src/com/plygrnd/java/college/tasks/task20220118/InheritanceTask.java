@@ -1,4 +1,4 @@
-package com.plygrnd.java.college.tasks.task01182022;
+package com.plygrnd.java.college.tasks.task20220118;
 
 class Komputer {
 
